@@ -102,8 +102,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://drive.google.com/file/d/1WMvjP_uf6VAeYUainmfT332KMbi9hZw9/view?usp=drive_link
-          #date_end: '2013-08-13'
-          #date_start: ''
+          date_end: '2013-08-13'
+          date_start: '2013-01-02'
           description: ''
           icon: coursera
           organization: Coursera
