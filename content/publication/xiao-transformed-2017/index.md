@@ -9,6 +9,7 @@ authors:
 - Gui Xue
 date: '2017-01-01'
 publishDate: '2024-03-28T21:06:30.533328Z'
+publication: 'The Journal of Neuroscience'
 publication_types:
 - article-journal
 doi: 10.1523/JNEUROSCI.2324-16.2017
