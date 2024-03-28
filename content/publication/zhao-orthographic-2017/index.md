@@ -12,6 +12,7 @@ authors:
 - Gui Xue
 date: '2017-01-01'
 publishDate: '2024-03-28T21:06:30.541953Z'
+publication: 'Cerebral Cortex'
 publication_types:
 - article-journal
 doi: 10.1093/cercor/bhw300
