@@ -101,7 +101,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://github.com/XiaoqianXiao/XiaoqianXiao.github.io/blob/main/data/certificate_coursera.pdf
+        - certificate_url: https://drive.google.com/file/d/1WMvjP_uf6VAeYUainmfT332KMbi9hZw9/view?usp=drive_link
           date_end: ''
           date_start: '2013-08-13'
           description: ''
@@ -110,7 +110,7 @@ sections:
           organization_url: https://www.coursera.org
           title: Machine Learning
           url: ''
-        #- certificate_url: https://github.com/XiaoqianXiao/XiaoqianXiao.github.io/blob/main/data/certificate_datacamp.pdf
+        #- certificate_url: https://drive.google.com/file/d/1nFmlfZLrhVnrDc7VHmz_ttBM93xsEoP9/view?usp=drive_link
         #  date_end: '2024-03-11'
         #  description: ''
         #  icon: datacamp
