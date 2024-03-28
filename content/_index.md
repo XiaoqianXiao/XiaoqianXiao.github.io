@@ -103,7 +103,7 @@ sections:
       items:
         - certificate_url: https://drive.google.com/file/d/1WMvjP_uf6VAeYUainmfT332KMbi9hZw9/view?usp=drive_link
           date_end: '2013-08-13'
-          date_start: '2013-01-02'
+          date_start: ''
           description: ''
           icon: coursera
           organization: Coursera
