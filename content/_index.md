@@ -103,14 +103,16 @@ sections:
       items:
         - certificate_url: https://drive.google.com/file/d/1WMvjP_uf6VAeYUainmfT332KMbi9hZw9/view?usp=drive_link
           date_end: '2013-08-13'
+          date_start: ''
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Machine Learning
           url: ''
-      - certificate_url: https://drive.google.com/file/d/1nFmlfZLrhVnrDc7VHmz_ttBM93xsEoP9/view?usp=drive_link
+        - certificate_url: https://drive.google.com/file/d/1nFmlfZLrhVnrDc7VHmz_ttBM93xsEoP9/view?usp=drive_link
           date_end: '2024-03-11'
+          date_start: ''
           description: ''
           icon: datacamp
           organization: DataCamp
