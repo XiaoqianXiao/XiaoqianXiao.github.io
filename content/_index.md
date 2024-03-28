@@ -64,27 +64,45 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Postdoc researcher
+          company: the Center for Brain and Cognitive Learning Sciences, Beijing Normal university
+          company_url: 'https://cbls.bnu.edu.cn/index.htm'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Beijing, China
+          date_start: '2016-07-06'
+          date_end: '2017-07-06'
+          description: |2-
+              Responsibilities include:
+              * Project leader of item-specific reinstatement in memory encoding and retrieval
+              * Design the experiment to obtain the neural bases of reinstatement during memory encoding and retrieval
+              * Conducted research in both TX and Beijing and collected 50 sets of data.
+              * Built analysis model to detect the feature of the item-specific information, individual-specific information, and shared representation crossed participants.
+              * Built the model to test the cross-validation of the results.
+              * Using simulate data for providing extra evidence of the hypothesis which the experimental data could not cover.
+        - title: Postdoc researcher
+          company: Stanford Brain Stimulation Lab, Stanford Univeristy
+          company_url: 'https://bsl.stanford.edu/'
+          company_logo: org-gc
+          location: Stanford, CA
+          date_start: '2017-08-01'
+          date_end: '2019-07-06'
+          description: |2-
+              Responsibilities include:
+              * Project leader of aiTBS treatment related rs-MRI changes in depression patients
+              * Statistical analysis of clinical trial data involving various data types (MRI, clinical assessments) to understand the neural correlates of effective brain stimulation treatment for depression.
+        - title: Happy Mum + data analyst
+          company: Home + Stanford Brain Stimulation Lab, Stanford Univeristy
+          company_url: 'https://bsl.stanford.edu/'
+          company_logo: org-gc
+          location: Stanford, CA
+          date_start: '2019-07-07'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * My family were thrive with two great members came, even though the environment is not as open as usual during the covid pandemic. We have a great time and both of my songs grows wonderfully. I treasure time with the little ones and also try hard to gain personal development"
+              * Work for the Stanford Brain Stimulation Lab focused the data exploring of the aiTBS treatment related rs-MRI changes in depression patients project. First author manuscripts published in Translational Psychiatry.
+              * Developed and implemented denoising pipeline for neuroimaging (MRI) data
+              * Completed Data Scientist with Python track in datacamp with enhanced skill for data modeling and pyhton.   
     design:
       columns: '2'
   - block: accomplishments
