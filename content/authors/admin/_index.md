@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Xiaoqian Xiao
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xiaoqian
+last_name: Xiao
 
 # Status emoji
 status:
@@ -17,34 +17,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+#organizations:
+#  - name: Stanford University
+#    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a passionate cognitive neuroscientist. My research interests includes cognitive development and the psychological and physiological factors related to it, and using data modeling as a tool to understand and help with efficiency learning and precise treatment.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neural basis of cognitive development
+  - Neural basis of pysciatry illness
+  - Neural treatment effect
+  - Information Presentaion
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Cognitive Neuroscience
+      institution: The National Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University. 
+      year: 2016
+    - course: Visiting Student
+      institution: Imaging Research Center and the Department of Psychology, University of Texas at Austin.
+      year: 2012-2014
+    - course: BS in Psychology
+      institution: The School of Psychology, Beijing Normal University.
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -66,25 +67,25 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Research
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Experimental design for laboratory experiment
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        #icon: person-hiking
+        #icon_pack: fas
+      - name: Experimental design for clinical research projects
         description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        percent: 100
+        #icon: cat
+        #icon_pack: fas
+      - name: Advanced data processing and statistical analysis for MRI data
+        description: ''
+        percent: 100
+        #icon: camera-retro
+        #icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,21 +95,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/GeorgeCushen
+ #   label: Follow me on Twitter
+ #   display:
+ #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=yWqmwUgAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/XiaoqianXiao/RestingfMRI_Denoise
+ # - icon: linkedin
+ #   icon_pack: fab
+ #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiaoqian Xiao is a cognitive neuroscientist. Her research interests includes cognitive development and the psychological and physiological factors related to it, and using data modeling as a tool to understand and help with efficiency learning and precise treatment
 {style="text-align: justify;"}
