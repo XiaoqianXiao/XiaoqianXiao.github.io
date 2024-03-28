@@ -99,7 +99,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * My family were thrive with two great members came, even though the environment is not as open as usual during the covid pandemic. We have a great time and both of my songs grows wonderfully. I treasure time with the little ones and also try hard to gain personal development
+              * My family were thrive with two great members came, even though the environment is not as open as usual during the covid pandemic. We have a great time and both of my sons grows wonderfully. I treasure time with the little ones and also try hard to gain personal development
               * Work for the Stanford Brain Stimulation Lab focused the data exploring of the aiTBS treatment related rs-MRI changes in depression patients project. First author manuscripts published in Translational Psychiatry.
               * Developed and implemented denoising pipeline for neuroimaging (MRI) data
               * Completed Data Scientist with Python track in datacamp with enhanced skill for data modeling and pyhton.   
