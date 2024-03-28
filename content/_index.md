@@ -248,9 +248,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
       # Contact (add or remove contact options as necessary)
-      email: xiao.xiaoqian.320@@gmail.com
+      email: xiao.xiaoqian.320@gmail.com
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       #address:
