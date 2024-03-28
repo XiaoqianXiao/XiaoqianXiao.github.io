@@ -6,6 +6,7 @@ authors:
 - ' 郑丽'
 - ' 薛贵'
 date: '2016-01-01'
+publication: '北京师范大学学报: 自然科学版'
 publishDate: '2024-03-28T21:06:30.594506Z'
 publication_types:
 - article-journal
