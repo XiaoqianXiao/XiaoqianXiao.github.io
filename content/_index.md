@@ -101,32 +101,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970311~1528043/pdf
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2013-08-13'
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Machine Learning
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: https://www.datacamp.com/completed/statement-of-accomplishment/track/4c48c5d70fb10168857aa9bf00290fc1b7a6c814?utm_source=customerio&utm_medium=email&utm_campaign=220930_1-complete-track_2-b2c_3-all_4-na_5-na_6-completetrac_7-ct_8-emal-ci_9-na_10-bau_11-email&utm_content=auto
+          date_end: '2024-03-11'
           description: ''
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Associate Data Scientist'
           url: ''
     design:
       columns: '2'
