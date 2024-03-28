@@ -32,6 +32,7 @@ authors:
 - Nolan R. Williams
 date: '2020-08-01'
 publishDate: '2024-03-28T21:06:30.516051Z'
+publication: 'The American Journal of Psychiatry'
 publication_types:
 - article-journal
 doi: 10.1176/appi.ajp.2019.19070720
