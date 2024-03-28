@@ -110,15 +110,15 @@ sections:
           organization_url: https://www.coursera.org
           title: Machine Learning
           url: ''
-        - certificate_url: https://drive.google.com/file/d/1nFmlfZLrhVnrDc7VHmz_ttBM93xsEoP9/view?usp=drive_link
-          date_end: '2024-03-11'
-          date_start: ''
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: Associate Data Scientist
-          url: ''
+        #- certificate_url: https://drive.google.com/file/d/1nFmlfZLrhVnrDc7VHmz_ttBM93xsEoP9/view?usp=drive_link
+        #  date_end: '2024-03-11'
+        #  date_start: ''
+        #  description: ''
+        #  icon: datacamp
+        #  organization: DataCamp
+        #  organization_url: https://www.datacamp.com
+        #  title: Associate Data Scientist
+        #  url: ''
     design:
       columns: '2'
   #- block: collection
