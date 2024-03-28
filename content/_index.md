@@ -67,7 +67,7 @@ sections:
         - title: Postdoc researcher
           company: the Center for Brain and Cognitive Learning Sciences, Beijing Normal university
           company_url: 'https://cbls.bnu.edu.cn/index.htm'
-          company_logo: org-gc
+          #company_logo: org-gc
           location: Beijing, China
           date_start: '2016-07-06'
           date_end: '2017-07-06'
@@ -82,7 +82,7 @@ sections:
         - title: Postdoc researcher
           company: Stanford Brain Stimulation Lab, Stanford Univeristy
           company_url: 'https://bsl.stanford.edu/'
-          company_logo: org-gc
+          #company_logo: org-gc
           location: Stanford, CA
           date_start: '2017-08-01'
           date_end: '2019-07-06'
@@ -93,13 +93,13 @@ sections:
         - title: Happy Mum + data analyst
           company: Home + Stanford Brain Stimulation Lab, Stanford Univeristy
           company_url: 'https://bsl.stanford.edu/'
-          company_logo: org-gc
+          #company_logo: org-gc
           location: Stanford, CA
           date_start: '2019-07-07'
           date_end: ''
           description: |2-
               Responsibilities include:
-              * My family were thrive with two great members came, even though the environment is not as open as usual during the covid pandemic. We have a great time and both of my songs grows wonderfully. I treasure time with the little ones and also try hard to gain personal development"
+              * My family were thrive with two great members came, even though the environment is not as open as usual during the covid pandemic. We have a great time and both of my songs grows wonderfully. I treasure time with the little ones and also try hard to gain personal development
               * Work for the Stanford Brain Stimulation Lab focused the data exploring of the aiTBS treatment related rs-MRI changes in depression patients project. First author manuscripts published in Translational Psychiatry.
               * Developed and implemented denoising pipeline for neuroimaging (MRI) data
               * Completed Data Scientist with Python track in datacamp with enhanced skill for data modeling and pyhton.   
