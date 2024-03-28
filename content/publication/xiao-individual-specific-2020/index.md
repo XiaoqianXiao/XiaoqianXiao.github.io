@@ -12,6 +12,7 @@ authors:
 - Gui Xue
 date: '2020-08-15'
 publishDate: '2024-03-28T21:06:30.505906Z'
+publication: 'NeuroImage'
 publication_types:
 - article-journal
 doi: 10.1016/j.neuroimage.2020.116909
