@@ -248,7 +248,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-      My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+        My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
       # Contact (add or remove contact options as necessary)
       email: xiao.xiaoqian.320@gmail.com
       #phone: 888 888 88 88
