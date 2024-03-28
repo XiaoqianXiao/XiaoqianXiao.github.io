@@ -12,6 +12,7 @@ authors:
 - Nolan R. Williams
 date: '2023-07-03'
 publishDate: '2024-03-28T21:06:30.587006Z'
+publication: 'Translational Psychiatry'
 publication_types:
 - article-journal
 doi: 10.1038/s41398-023-02537-9
