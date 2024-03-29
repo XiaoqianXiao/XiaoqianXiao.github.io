@@ -95,7 +95,7 @@ sections:
           company_url: 'https://bsl.stanford.edu/'
           #company_logo: org-gc
           location: Stanford, CA
-          date_start: '2020'
+          date_start: '2020-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
