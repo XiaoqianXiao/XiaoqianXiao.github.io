@@ -95,8 +95,8 @@ sections:
           company_url: 'https://bsl.stanford.edu/'
           #company_logo: org-gc
           location: Stanford, CA
-          date_start: '2020-01-01'
-          date_end: ''
+          date_start: '2020-09-01'
+          date_end: '2023-04-01'
           description: |2-
               Responsibilities include:
               * My family were thrive with two great members came, even though the environment is not as open as usual during the covid pandemic. We have a great time and both of my sons grows wonderfully. I treasure time with the little ones and also try hard to gain personal development
