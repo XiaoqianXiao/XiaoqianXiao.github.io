@@ -90,12 +90,12 @@ sections:
               Responsibilities include:
               * Project leader of aiTBS treatment related rs-MRI changes in depression patients
               * Statistical analysis of clinical trial data involving various data types (MRI, clinical assessments) to understand the neural correlates of effective brain stimulation treatment for depression.
-        - title: Happy Mum + data analyst
-          company: Home + Stanford Brain Stimulation Lab, Stanford Univeristy
+        - title: data modeling
+          company: Stanford Brain Stimulation Lab, Stanford Univeristy
           company_url: 'https://bsl.stanford.edu/'
           #company_logo: org-gc
           location: Stanford, CA
-          date_start: '2019-07-07'
+          date_start: '2020'
           date_end: ''
           description: |2-
               Responsibilities include:
