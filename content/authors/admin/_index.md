@@ -70,8 +70,8 @@ skills:
       - name: FSL, fMRIprep, ANTs
         description: ''
         percent: 90
-        icon: database
-        icon_pack: fas      
+        #icon: database
+        #icon_pack: fas      
   - name: Research
     color: '#eeac02'
     color_border: '#f0bf23'
