@@ -59,7 +59,7 @@ skills:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -67,6 +67,11 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
+      - name: FSL, fMRIprep, ANTs
+        description: ''
+        percent: 90
+        icon: database
+        icon_pack: fas      
   - name: Research
     color: '#eeac02'
     color_border: '#f0bf23'
